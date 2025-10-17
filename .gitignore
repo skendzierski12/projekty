@@ -1,4 +1,8 @@
 *.txt
 .gitignore
 __pycache__
+<<<<<<< HEAD
 *.docx
+=======
+*.csv
+>>>>>>> ed265eff270803cdfed032b6e38086f1ddcf9e5f
